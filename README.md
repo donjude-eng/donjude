@@ -39,11 +39,8 @@
 <br>
 <br>
 
-![Don Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight)
-
+![Don Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true&hide=contribs,issues&show_icons=true&theme=default)
 <br>
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donjude-eng&layout=compact&count_private=true)](https://github.com/donjude-eng/github-readme-stats)
 
 <br />
