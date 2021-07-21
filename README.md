@@ -43,14 +43,6 @@
 ![Don Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true&hide=contribs,issues&show_icons=true&theme=default)
 <br>
 
-<!--START_SECTION:waka-->
-```text
-JSX          9 hrs 56 mins   ████████████████████░░░░░   80.21 % 
-HTML         1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-JavaScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-```
-<!--END_SECTION:waka-->
-
 <br />
 <br />
 
