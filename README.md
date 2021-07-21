@@ -6,9 +6,8 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- Achieved #100DaysOfCode
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Achieved #100DaysOfCode
 
 ### Connect with me:
 
