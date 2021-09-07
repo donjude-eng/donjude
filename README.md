@@ -42,7 +42,7 @@
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Cyebukayire&theme=dark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&show_icons=true&theme=dark&hide_title=true)](https://github.com/donjude-eng)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donjude-eng&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/donjude-eng)|![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
 <hr>
 
 
