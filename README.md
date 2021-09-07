@@ -40,12 +40,9 @@
 ![Don Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true&hide=contribs,issues&show_icons=true&theme=default)
 <br>
 
-|My github statistics|My languages|Streaks|
 ![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
 
 <hr>
-
-
 
 <br />
 <br />
