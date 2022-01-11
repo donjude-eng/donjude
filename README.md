@@ -43,9 +43,6 @@
 ![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
 
 <hr>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Don Jude Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=donjude-eng&bg_color=000&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-
 <br />
 <br />
 
