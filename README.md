@@ -40,6 +40,7 @@
 <!-- ![Don Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true&hide=contribs,issues&show_icons=true&theme=black) -->
 <br>
 
+![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
 
 <hr>
 <br />
