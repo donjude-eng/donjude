@@ -37,8 +37,7 @@
 <br>
 <br>
 
-[![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)](https://github.com/donjude-eng/github-readme-streak-stats)
-
+![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
 <hr>
 <br />
 <br />
