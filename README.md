@@ -37,9 +37,7 @@
 <br>
 <br>
 
-[![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![donjude-eng(https://github-readme-stats.vercel.app/api?donjude-eng=donjude-eng&count_private=true)
-
+[![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)](https://github.com/donjude-eng/github-readme-streak-stats)
 
 <hr>
 <br />
