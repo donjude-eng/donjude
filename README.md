@@ -1,6 +1,6 @@
 ### Hi there, I'm Don Jude Joseph 👋
 
-[![Website](https://img.shields.io/website?label=donjude.com&style=for-the-badge&url=https%3A%2F%2Fdonjude.com)](https://www.donjude.com)
+[![Website](https://img.shields.io/website?label=donjude.com&style=for-the-badge&url=https://www.donjude.com)](https://www.donjude.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/donjudejoseph?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F&screen_name=donjudejoseph)
 
 - 🌱 I’m currently learning everything
