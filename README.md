@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Achieved #500DaysOfCode
+- 🥅 Achieved #500DaysOfCodeco
 
 ### Connect with me:
 
