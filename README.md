@@ -16,6 +16,8 @@
 
 <br />
 
+<a href="https://app.daily.dev/donjude"><img src="https://api.daily.dev/devcards/d46939a57fe044cf8a8a2f75243f9343.png?r=tc8" width="400" alt="Don Jude Joseph's Dev Card"/></a>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
