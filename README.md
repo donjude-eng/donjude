@@ -14,13 +14,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-
-<a href="https://app.daily.dev/donjude"><img src="https://api.daily.dev/devcards/d46939a57fe044cf8a8a2f75243f9343.png?r=tc8" width="400" alt="Don Jude Joseph's Dev Card"/></a>
-<br />
-<br />
-<br />
 
 ### Languages and Tools:
 
